@@ -1,4 +1,4 @@
-# samyak_ghelani
+# GhelaniSamyak
 👋🏼 Hi, I’m Samyak Ghelani  
 👀 I’m interested in Software Development  
 🌱 I’m currently learning Data Structures and Algorithm  
